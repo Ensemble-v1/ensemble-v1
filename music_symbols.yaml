@@ -1,0 +1,16 @@
+path: /home/arch/labs/projects/ensemble/datasets
+train: train/images
+val: valid/images
+nc: 47
+names: [
+  'whole_note', 'half_note', 'quarter_note', 'eighth_note', 'sixteenth_note', 
+  'thirty_second_note', 'sixty_fourth_note', 'whole_rest', 'half_rest', 
+  'quarter_rest', 'eighth_rest', 'sixteenth_rest', 'thirty_second_rest', 
+  'sixty_fourth_rest', 'treble_clef', 'bass_clef', 'alto_clef', 'tenor_clef', 
+  'sharp', 'flat', 'natural', 'double_sharp', 'double_flat', 
+  'time_signature_2_4', 'time_signature_3_4', 'time_signature_4_4', 
+  'time_signature_6_8', 'time_signature_9_8', 'time_signature_12_8', 
+  'common_time', 'cut_time', 'bar_line', 'double_bar_line', 'repeat_start', 
+  'repeat_end', 'tie', 'slur', 'beam', 'dot', 'staccato', 'accent', 
+  'fermata', 'trill', 'mordent', 'turn', 'grace_note', 'chord'
+]

@@ -1,0 +1,18 @@
+# Datasets
+datasets/
+
+# Runs
+runs/
+
+# Models
+models/
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Static files
+static/
